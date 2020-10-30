@@ -46,7 +46,7 @@
     "@babel/preset-env": "7.12.1",
     "@rollup/plugin-babel": "5.2.1",
     "@rollup/plugin-commonjs": "15.1.0",
-    "@rollup/plugin-node-resolve": "9.0.0",
+    "@rollup/plugin-node-resolve": "10.0.0",
     "redux": "4.0.5",
     "@data-provider/core": "2.6.0",
     "@data-provider/axios": "2.1.3",
