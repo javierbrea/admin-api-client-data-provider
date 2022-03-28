@@ -1,14 +1,10 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 #environment variables
-/.env
+.env
 
 # dependencies
-/node_modules
-
-# tests
-/coverage
-/dist
+node_modules
 
 # misc
 .DS_Store
